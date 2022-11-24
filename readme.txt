@@ -1,3 +1,8 @@
+Prelude:
+This project scored 88% for Part 1 (basic classes setting up the grid), 84% for Part 2 (validation and command line game), and 82% for Part 3 (the state this is currently in, fully featured JavaFX game), for an overall module average of 84%.
+
+The following is the original readme submitted in my final submission 30/04/2021:
+---
 README - Marupeke GUI
 
 Displaying the Data:
